@@ -2,7 +2,7 @@
 
 [![Dribbble](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dribbble.com/ezar_pramana)
 [![Instagram](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/ezarsatpra)
-(https://img.shields.io/github/followers/ezarsatria12?style=flat-square&logo=appveyor)
+[![Github](https://img.shields.io/github/followers/ezarsatria12?style=flat-square&logo=appveyor)]
 
 ## I'm a Student, UI/UX Dsigner, and Developer 💻
 
