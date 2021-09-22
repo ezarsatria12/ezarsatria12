@@ -1,8 +1,4 @@
-### Hi there, I'm Ezar 👋
-
-[![Dribbble](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dribbble.com/ezar_pramana)
-[![Instagram](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/ezarsatpra)
-[![Github](https://img.shields.io/github/followers/ezarsatria12?style=flat-square&logo=appveyor)]
+# Hi there, I'm Ezar 👋
 
 ## I'm a Student, UI/UX Dsigner, and Developer 💻
 
@@ -14,9 +10,8 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][Dribbble]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ezar_pramana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezarsatpra)
 
 <br />
 
