@@ -2,7 +2,6 @@
 
 ## I'm a Student, UI/UX Designer, and Developer 💻
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -28,11 +27,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 
 <br />
-<br />
 
-  <summary>:zap: GitHub Stats</summary>
-
-  [![ezar GitHub stats](https://github-readme-stats.vercel.app/api?ezarsatria12=anuraghazra&show_icons=true&theme=radical)()
+  <img src:"(https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight)
+">
 
 [Instagram]: https://www.instagram.com/ezarsatpra
 [Dribbble]: https://dribbble.com/ezar_pramana
