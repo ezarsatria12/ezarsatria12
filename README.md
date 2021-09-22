@@ -1,6 +1,6 @@
 # Hi there, I'm Ezar 👋
 
-## I'm a Student, UI/UX Dsigner, and Developer 💻
+## I'm a Student, UI/UX Designer, and Developer 💻
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -32,7 +32,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ezarsatria12's GitHub Stats" src="https://github-readme-stats.ezarsatria12.vercel.app/api?username=ezarsatria12&show_icons=true&hide_border=true" />
+  [![ezar GitHub stats](https://github-readme-stats.vercel.app/api?ezarsatria12=anuraghazra&show_icons=true&theme=radical)()
 
 [Instagram]: https://www.instagram.com/ezarsatpra
 [Dribbble]: https://dribbble.com/ezar_pramana
