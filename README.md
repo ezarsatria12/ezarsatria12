@@ -37,7 +37,7 @@ https://img.shields.io/github/followers/ezarsatria12?style=social
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ezarsatria12&show_icons=true&hide_border=true" />
+  <img align="left" alt="ezarsatria12's GitHub Stats" src="https://github-readme-stats.ezarsatria12.vercel.app/api?username=ezarsatria12&show_icons=true&hide_border=true" />
 
 [Instagram]: https://www.instagram.com/ezarsatpra
 [Dribbble]: https://dribbble.com/ezar_pramana
