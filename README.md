@@ -29,6 +29,8 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [Instagram]: https://www.instagram.com/ezarsatpra
 [Dribbble]: https://dribbble.com/ezar_pramana
