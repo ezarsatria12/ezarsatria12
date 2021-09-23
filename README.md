@@ -28,7 +28,7 @@
 
 <br />
 
-<img src:"https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" />
 
 [Instagram]: https://www.instagram.com/ezarsatpra
 [Dribbble]: https://dribbble.com/ezar_pramana
