@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezarsatpra)
 
 <br />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
 ### Languages and Tools:
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -26,8 +26,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
 
 
