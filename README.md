@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ezar_pramana)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezarsatpra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezrr.io)
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
@@ -29,6 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
 
 
-[Instagram]: https://www.instagram.com/ezarsatpra
+[Instagram]: https://www.instagram.com/ezrr.io
 [Dribbble]: https://dribbble.com/ezar_pramana
 
