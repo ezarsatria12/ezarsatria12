@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🎯 Goals: Make all wishes come true
 
-### Connect with me:
+## Connect with me:
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ezar_pramana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezrr.io)
@@ -14,7 +14,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
 
-### Languages and Tools:
+## Languages and Tools:
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
