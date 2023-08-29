@@ -1,6 +1,7 @@
 # Hi there, I'm Ezar 👋
 
-## I'm a Student, UI/UX Designer, and Developer 💻
+## I'm a Student, UI/UX Designer, and Machine Learning Scientist 🤖
+sometimes could be a software developer😝
 
 - 🎓 I like to learn anything
 - 👯 I’m looking to collaborate with other content creators
