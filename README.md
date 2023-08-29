@@ -26,6 +26,7 @@ sometimes could be a software developer😝
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Tensorflow-02569B?style=for-the-badge&logo=Tensorflow&logoColor=white)]()
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
 
