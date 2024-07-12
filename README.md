@@ -1,3 +1,9 @@
+<div align="center">
+  <div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
+  </div>
+</div>
 # Hi there, I'm Ezar 👋
 
 ## I'm a Student, UI/UX Designer, and Machine Learning Scientist 🤖
@@ -29,9 +35,7 @@ sometimes could be a software developer😝
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]()
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=donut-vertical)](https://github.com/ezarsatria12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=donut&theme=tokyonight" />
 
 [Instagram]: https://www.instagram.com/ezrr.io
 [Dribbble]: https://dribbble.com/ezar_pramana
