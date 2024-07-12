@@ -30,7 +30,7 @@ sometimes could be a software developer😝
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=donut-vertical&theme=tokyonight)](https://github.com/ezarsatria12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=donut-vertical)](https://github.com/ezarsatria12/github-readme-stats)
 
 
 [Instagram]: https://www.instagram.com/ezrr.io
