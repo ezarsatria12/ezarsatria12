@@ -6,7 +6,7 @@
 </div>
 # Hi there, I'm Ezar 👋
 
-## I'm a Student, UI/UX Designer, and Machine Learning Scientist 🤖
+## I'm a Student, Fullstack Dev, and Machine Learning Scientist 🤖
 sometimes could be a software developer😝
 
 - 🎓 I like to learn anything
