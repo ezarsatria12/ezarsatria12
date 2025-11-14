@@ -6,11 +6,10 @@
 </div>
 # Hi there, I'm Ezar 👋
 
-## I'm a Student, Fullstack Dev, and Machine Learning Scientist 🤖
-sometimes could be a software developer😝
+## I'm a Student, Full-Stack Developer, and AI/ML Enthusiast
 
-- 🎓 I like to learn anything
-- 👯 I’m looking to collaborate with other content creators
+- 🎓 I'm currently exploring new frontiers in **Artificial Intelligence** and **Web Development**.
+- 👯 I’m looking to collaborate on innovative **open-source projects**.
 - 🎯 Goals: Make all wishes come true
 
 ## Connect with me:
@@ -19,7 +18,6 @@ sometimes could be a software developer😝
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezrr.io)
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
 
 ## Languages and Tools:
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
@@ -34,8 +32,6 @@ sometimes could be a software developer😝
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]()
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=donut&theme=tokyonight" />
 
 [Instagram]: https://www.instagram.com/ezrr.io
 [Dribbble]: https://dribbble.com/ezar_pramana
