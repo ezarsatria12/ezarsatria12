@@ -1,9 +1,4 @@
-<div align="center">
-  <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
-  </div>
-</div>
+
 # Hi there, I'm Ezar 👋
 
 ## I'm a Student, Full-Stack Developer, and AI/ML Enthusiast
